@@ -11,4 +11,6 @@
 
 * ☝️☝️  AWS infrastrutcre with how eks is cluster is deployed in private subnets with secure access and IAM roles *
 
+<img width="999" height="873" alt="image" src="https://github.com/user-attachments/assets/ef74e526-189a-43e7-b69b-f9a926eefe05" />
 
+* ☝️☝️  AWS infrastrutcre to Configure an Application Load Balancer using AWS Load Balancer Controller and expose services via ingress. *
