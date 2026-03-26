@@ -6,4 +6,9 @@
 <img width="809" height="886" alt="image" src="https://github.com/user-attachments/assets/0c9b0e25-8dde-4156-958d-dc5b31f31972" />
 
 * ☝️☝️ AWS infrastrutcre with includind VPC with private , public, database subnets nat gateways and routing.*
+  
+<img width="849" height="886" alt="image" src="https://github.com/user-attachments/assets/9e18d293-86df-4cd4-9bc8-49a0984335e0" />
+
+* ☝️☝️  AWS infrastrutcre with how eks is cluster is deployed in private subnets with secure access and IAM roles *
+
 
